@@ -1,0 +1,25 @@
+.main-container,
+.payload-container {
+  width: 50%;
+  margin: auto;
+  padding-top: 5%;
+}
+
+.filter-title,
+.payload-title {
+  margin: 10px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.filter-container,
+.filter-select,
+.button-submit {
+  text-align: center;
+}
+
+.payload-sub-title,
+.payload-body {
+  margin: 10px 0;
+  text-align: center;
+}
