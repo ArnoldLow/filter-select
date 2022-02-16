@@ -16,7 +16,3 @@
 - App.js
 - SelectedList.jsx
 - App.css
-
-### Additional notes
-
-- I couldn't find a tech document on the replit link or in my emails to refresh my mind on the requirements, my apologies, however I believe this project has implemented all the requirements.
