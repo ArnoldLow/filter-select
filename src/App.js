@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import "./styles/App.css";
 import SelectedList from "./components/SelectedList";
 
-// example expected payload -> [{"name":"Currency","value":"GBP"},{"name":"Country","value":"UK"},{"name":"Currency","value":"USD"}]
-
 function App() {
   const availableFilterTypes = ["Currency", "Country", "Sector", "AssetType"];
   const [selected, setSelected] = useState([]);
